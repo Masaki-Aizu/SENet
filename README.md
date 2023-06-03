@@ -5,6 +5,6 @@
 - 特徴量マップに、重要度に応じ**アテンション**をかける働きをする
 - 既存のアーキテクチャにSEブロックを組み込むことで学習効率、精度が向上する<br>
 <img alt="SE result" src="./image/se_result_train.png"></img>
-- 上記図はSEブロックを組み込んだ場合のResNet, ResNeXt, Inceptionの学習効率改善結果を示している。オリジナルのものより学習収束が早くなっている<br>
+- 上記図はSEブロックを組み込んだ場合のResNet, ResNeXt, Inceptionの学習効率改善結果を示している。オリジナルのものより学習収束が早くなっている<br><br>
 <img alt="SE result" src="./image/se_result_val.png"></img>
 - 上記図はSEブロックを組み込んだ場合の精度改善結果を示している。1%前後、オリジナルのものより精度が良くなっている
